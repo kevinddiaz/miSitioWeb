@@ -36,7 +36,7 @@ export default () => {
     return (<div className="max-w-4xl mx-auto mt-12">
         <header className="text-center">
             <h2 className="text-3xl font-bold">Mi trabajo en Open Source</h2>
-            <p>Colaboracion y contribucion de codigo</p>
+            <p>Colaboración y contribución de codigo</p>
         </header>
         <ul className="repos-list pl-4">
             {
@@ -47,7 +47,7 @@ export default () => {
         </ul>
         <div className="mt-8 text-center m-3">
             <a href="https://github.com/kevinddiaz/" className="bg-purple-500 text-white font-white  rounded  border-purple-700 py-2 px-4 border-b-4"target="_blank" rel="noopener noreferrer">
-                Ver mas En GitHub ({reposCount})
+                Ver más En GitHub ({reposCount})
             </a>
         </div>
     </div>);

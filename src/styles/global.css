@@ -7,7 +7,7 @@ btn = <button className="bg-purple-500 text-white font-white  rounded  border-pu
 */
 
 body{
-    @apply bg-gray-200;
+    @apply bg-gray-100;
 }
 
 .repos-list{
