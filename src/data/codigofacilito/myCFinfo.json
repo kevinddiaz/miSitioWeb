@@ -1,0 +1,36 @@
+{
+    "data": {
+        "email": "kevindiaz9944@hotmail.com",
+        "username": "kevindiaz9944",
+        "certificates": [],
+        "articles": [],
+        "courses": [
+            {
+                "title": "Curso de javaScript Gratis",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/javascript"
+            },
+            {
+                "title": "Crea un sitio personal con Gatsby",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            },
+            {
+                "title": "Curso de Fundamentos de React",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/react-intro-gratis"
+            }
+        ],
+        "finished_courses": [
+            {
+                "title": "Curso de javaScript Gratis",
+                "url": "http://codigofacilito.com/courses/javascript"
+            },
+            {
+                "title": "Curso de Fundamentos de React",
+                "url": "http://codigofacilito.com/courses/react-intro-gratis"
+            }
+        ]
+    },
+    "errors": []
+}

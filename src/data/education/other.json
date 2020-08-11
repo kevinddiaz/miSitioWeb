@@ -1,0 +1,17 @@
+{
+    "slug":"others",
+    "title":"Otros logros académicos",
+    "description": "Talleres y certificaciones en las que he participado",
+    "item": [{
+       "name":"ICPC competencia Regional 2019",
+       "degree":"Semifinalista",
+       "score": "XX"
+    },
+    {
+       "name":"Curso Coach Internacional TKD 2016",
+       "degree":"Instructor internacional de Taekwondo",
+       "score": "XX"
+    }
+   ]
+   
+   }

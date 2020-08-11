@@ -1,0 +1,17 @@
+{
+ "slug":"presencial",
+ "title":"Formación académica",
+ "description": "Formación académica, Universidad e instituciones a las que asistí",
+ "item": [{
+    "name":"Universidad Francisco Gavidia",
+    "degree":"Ing. en Ciencias de la computación",
+    "score": "85"
+ },
+ {
+    "name":"Colegio San Antonio",
+    "degree":"Bachillerato General",
+    "score": "XX"
+ }
+]
+
+}

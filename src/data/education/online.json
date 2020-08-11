@@ -1,0 +1,15 @@
+{
+    "slug":"online",
+    "title":"Formación en linea",
+    "description": "Formación finalizadas en plataformas online",
+    "item": [{
+       "name":"Curso Javascript",
+       "url":"https://codigofacilito.com/cursos/javascript"
+    },
+    {
+        "name":"Curso Fundamentos de React",
+        "url":"https://codigofacilito.com/videos/introduccion-a09fceca-edac-4870-8686-b3bd85bccaef"
+     }
+   ]
+   
+   }
